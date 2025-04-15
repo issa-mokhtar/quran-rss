@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "title": "الفاتحة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F1%20الفاتحة.mp3?alt=media"
+  },
+  {
+    "id": 2,
+    "title": "البقرة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F2%20البقرة.mp3?alt=media"
+  },
+  {
+    "id": 3,
+    "title": "آل عمران",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F3%20آل%20عمران.mp3?alt=media"
+  },
+  {
+    "id": 4,
+    "title": "النساء",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F4%20النساء.mp3?alt=media"
+  },
+  {
+    "id": 5,
+    "title": "المائدة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F5%20المائدة.mp3?alt=media"
+  },
+  {
+    "id": 6,
+    "title": "الأنعام",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F6%20الأنعام.mp3?alt=media"
+  },
+  {
+    "id": 7,
+    "title": "الأعراف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F7%20الأعراف.mp3?alt=media"
+  },
+  {
+    "id": 8,
+    "title": "الأنفال",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F8%20الأنفال.mp3?alt=media"
+  },
+  {
+    "id": 9,
+    "title": "التوبة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F9%20التوبة.mp3?alt=media"
+  },
+  {
+    "id": 10,
+    "title": "يونس",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F10%20يونس.mp3?alt=media"
+  },
+  {
+    "id": 11,
+    "title": "هود",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F11%20هود.mp3?alt=media"
+  },
+  {
+    "id": 12,
+    "title": "يوسف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F12%20يوسف.mp3?alt=media"
+  },
+  {
+    "id": 13,
+    "title": "الرعد",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F13%20الرعد.mp3?alt=media"
+  },
+  {
+    "id": 14,
+    "title": "إبراهيم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F14%20إبراهيم.mp3?alt=media"
+  },
+  {
+    "id": 15,
+    "title": "الحجر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F15%20الحجر.mp3?alt=media"
+  },
+  {
+    "id": 16,
+    "title": "النحل",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F16%20النحل.mp3?alt=media"
+  },
+  {
+    "id": 17,
+    "title": "الإسراء",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F17%20الإسراء.mp3?alt=media"
+  },
+  {
+    "id": 18,
+    "title": "الكهف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F18%20الكهف.mp3?alt=media"
+  },
+  {
+    "id": 19,
+    "title": "مريم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F19%20مريم.mp3?alt=media"
+  },
+  {
+    "id": 20,
+    "title": "طه",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F20%20طه.mp3?alt=media"
+  },
+  {
+    "id": 21,
+    "title": "الأنبياء",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F21%20الأنبياء.mp3?alt=media"
+  },
+  {
+    "id": 22,
+    "title": "الحج",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F22%20الحج.mp3?alt=media"
+  },
+  {
+    "id": 23,
+    "title": "المؤمنون",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F23%20المؤمنون.mp3?alt=media"
+  },
+  {
+    "id": 24,
+    "title": "النور",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F24%20النور.mp3?alt=media"
+  },
+  {
+    "id": 25,
+    "title": "الفرقان",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F25%20الفرقان.mp3?alt=media"
+  },
+  {
+    "id": 26,
+    "title": "الشعراء",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F26%20الشعراء.mp3?alt=media"
+  },
+  {
+    "id": 27,
+    "title": "النمل",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F27%20النمل.mp3?alt=media"
+  },
+  {
+    "id": 28,
+    "title": "القصص",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F28%20القصص.mp3?alt=media"
+  },
+  {
+    "id": 29,
+    "title": "العنكبوت",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F29%20العنكبوت.mp3?alt=media"
+  },
+  {
+    "id": 30,
+    "title": "الروم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F30%20الروم.mp3?alt=media"
+  },
+  {
+    "id": 31,
+    "title": "لقمان",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F31%20لقمان.mp3?alt=media"
+  },
+  {
+    "id": 32,
+    "title": "السجدة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F32%20السجدة.mp3?alt=media"
+  },
+  {
+    "id": 33,
+    "title": "الأحزاب",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F33%20الأحزاب.mp3?alt=media"
+  },
+  {
+    "id": 34,
+    "title": "سبأ",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F34%20سبأ.mp3?alt=media"
+  },
+  {
+    "id": 35,
+    "title": "فاطر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F35%20فاطر.mp3?alt=media"
+  },
+  {
+    "id": 36,
+    "title": "يس",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F36%20يس.mp3?alt=media"
+  },
+  {
+    "id": 37,
+    "title": "الصافات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F37%20الصافات.mp3?alt=media"
+  },
+  {
+    "id": 38,
+    "title": "ص",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F38%20ص.mp3?alt=media"
+  },
+  {
+    "id": 39,
+    "title": "الزمر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F39%20الزمر.mp3?alt=media"
+  },
+  {
+    "id": 40,
+    "title": "غافر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F40%20غافر.mp3?alt=media"
+  },
+  {
+    "id": 41,
+    "title": "فصلت",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F41%20فصلت.mp3?alt=media"
+  },
+  {
+    "id": 42,
+    "title": "الشورى",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F42%20الشورى.mp3?alt=media"
+  },
+  {
+    "id": 43,
+    "title": "الزخرف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F43%20الزخرف.mp3?alt=media"
+  },
+  {
+    "id": 44,
+    "title": "الدخان",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F44%20الدخان.mp3?alt=media"
+  },
+  {
+    "id": 45,
+    "title": "الجاثية",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F45%20الجاثية.mp3?alt=media"
+  },
+  {
+    "id": 46,
+    "title": "الأحقاف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F46%20الأحقاف.mp3?alt=media"
+  },
+  {
+    "id": 47,
+    "title": "محمد",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F47%20محمد.mp3?alt=media"
+  },
+  {
+    "id": 48,
+    "title": "الفتح",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F48%20الفتح.mp3?alt=media"
+  },
+  {
+    "id": 49,
+    "title": "الحجرات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F49%20الحجرات.mp3?alt=media"
+  },
+  {
+    "id": 50,
+    "title": "ق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F50%20ق.mp3?alt=media"
+  },
+  {
+    "id": 51,
+    "title": "الذاريات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F51%20الذاريات.mp3?alt=media"
+  },
+  {
+    "id": 52,
+    "title": "الطور",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F52%20الطور.mp3?alt=media"
+  },
+  {
+    "id": 53,
+    "title": "النجم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F53%20النجم.mp3?alt=media"
+  },
+  {
+    "id": 54,
+    "title": "القمر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F54%20القمر.mp3?alt=media"
+  },
+  {
+    "id": 55,
+    "title": "الرحمن",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F55%20الرحمن.mp3?alt=media"
+  },
+  {
+    "id": 56,
+    "title": "الواقعة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F56%20الواقعة.mp3?alt=media"
+  },
+  {
+    "id": 57,
+    "title": "الحديد",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F57%20الحديد.mp3?alt=media"
+  },
+  {
+    "id": 58,
+    "title": "المجادلة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F58%20المجادلة.mp3?alt=media"
+  },
+  {
+    "id": 59,
+    "title": "الحشر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F59%20الحشر.mp3?alt=media"
+  },
+  {
+    "id": 60,
+    "title": "الممتحنة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F60%20الممتحنة.mp3?alt=media"
+  },
+  {
+    "id": 61,
+    "title": "الصف",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F61%20الصف.mp3?alt=media"
+  },
+  {
+    "id": 62,
+    "title": "الجمعة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F62%20الجمعة.mp3?alt=media"
+  },
+  {
+    "id": 63,
+    "title": "المنافقون",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F63%20المنافقون.mp3?alt=media"
+  },
+  {
+    "id": 64,
+    "title": "التغابن",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F64%20التغابن.mp3?alt=media"
+  },
+  {
+    "id": 65,
+    "title": "الطلاق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F65%20الطلاق.mp3?alt=media"
+  },
+  {
+    "id": 66,
+    "title": "التحريم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F66%20التحريم.mp3?alt=media"
+  },
+  {
+    "id": 67,
+    "title": "الملك",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F67%20الملك.mp3?alt=media"
+  },
+  {
+    "id": 68,
+    "title": "القلم",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F68%20القلم.mp3?alt=media"
+  },
+  {
+    "id": 69,
+    "title": "الحاقة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F69%20الحاقة.mp3?alt=media"
+  },
+  {
+    "id": 70,
+    "title": "المعارج",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F70%20المعارج.mp3?alt=media"
+  },
+  {
+    "id": 71,
+    "title": "نوح",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F71%20نوح.mp3?alt=media"
+  },
+  {
+    "id": 72,
+    "title": "الجن",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F72%20الجن.mp3?alt=media"
+  },
+  {
+    "id": 73,
+    "title": "المزمل",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F73%20المزمل.mp3?alt=media"
+  },
+  {
+    "id": 74,
+    "title": "المدثر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F74%20المدثر.mp3?alt=media"
+  },
+  {
+    "id": 75,
+    "title": "القيامة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F75%20القيامة.mp3?alt=media"
+  },
+  {
+    "id": 76,
+    "title": "الإنسان",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F76%20الإنسان.mp3?alt=media"
+  },
+  {
+    "id": 77,
+    "title": "المرسلات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F77%20المرسلات.mp3?alt=media"
+  },
+  {
+    "id": 78,
+    "title": "النبأ",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F78%20النبأ.mp3?alt=media"
+  },
+  {
+    "id": 79,
+    "title": "النازعات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F79%20النازعات.mp3?alt=media"
+  },
+  {
+    "id": 80,
+    "title": "عبس",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F80%20عبس.mp3?alt=media"
+  },
+  {
+    "id": 81,
+    "title": "التكوير",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F81%20التكوير.mp3?alt=media"
+  },
+  {
+    "id": 82,
+    "title": "الانفطار",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F82%20الانفطار.mp3?alt=media"
+  },
+  {
+    "id": 83,
+    "title": "المطففين",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F83%20المطففين.mp3?alt=media"
+  },
+  {
+    "id": 84,
+    "title": "الانشقاق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F84%20الانشقاق.mp3?alt=media"
+  },
+  {
+    "id": 85,
+    "title": "البروج",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F85%20البروج.mp3?alt=media"
+  },
+  {
+    "id": 86,
+    "title": "الطارق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F86%20الطارق.mp3?alt=media"
+  },
+  {
+    "id": 87,
+    "title": "الأعلى",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F87%20الأعلى.mp3?alt=media"
+  },
+  {
+    "id": 88,
+    "title": "الغاشية",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F88%20الغاشية.mp3?alt=media"
+  },
+  {
+    "id": 89,
+    "title": "الفجر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F89%20الفجر.mp3?alt=media"
+  },
+  {
+    "id": 90,
+    "title": "البلد",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F90%20البلد.mp3?alt=media"
+  },
+  {
+    "id": 91,
+    "title": "الشمس",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F91%20الشمس.mp3?alt=media"
+  },
+  {
+    "id": 92,
+    "title": "الليل",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F92%20الليل.mp3?alt=media"
+  },
+  {
+    "id": 93,
+    "title": "الضحى",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F93%20الضحى.mp3?alt=media"
+  },
+  {
+    "id": 94,
+    "title": "الشرح",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F94%20الشرح.mp3?alt=media"
+  },
+  {
+    "id": 95,
+    "title": "التين",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F95%20التين.mp3?alt=media"
+  },
+  {
+    "id": 96,
+    "title": "العلق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F96%20العلق.mp3?alt=media"
+  },
+  {
+    "id": 97,
+    "title": "القدر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F97%20القدر.mp3?alt=media"
+  },
+  {
+    "id": 98,
+    "title": "البينة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F98%20البينة.mp3?alt=media"
+  },
+  {
+    "id": 99,
+    "title": "الزلزلة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F99%20الزلزلة.mp3?alt=media"
+  },
+  {
+    "id": 100,
+    "title": "العاديات",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F100%20العاديات.mp3?alt=media"
+  },
+  {
+    "id": 101,
+    "title": "القارعة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F101%20القارعة.mp3?alt=media"
+  },
+  {
+    "id": 102,
+    "title": "التكاثر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F102%20التكاثر.mp3?alt=media"
+  },
+  {
+    "id": 103,
+    "title": "العصر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F103%20العصر.mp3?alt=media"
+  },
+  {
+    "id": 104,
+    "title": "الهمزة",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F104%20الهمزة.mp3?alt=media"
+  },
+  {
+    "id": 105,
+    "title": "الفيل",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F105%20الفيل.mp3?alt=media"
+  },
+  {
+    "id": 106,
+    "title": "قريش",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F106%20قريش.mp3?alt=media"
+  },
+  {
+    "id": 107,
+    "title": "الماعون",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F107%20الماعون.mp3?alt=media"
+  },
+  {
+    "id": 108,
+    "title": "الكوثر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F108%20الكوثر.mp3?alt=media"
+  },
+  {
+    "id": 109,
+    "title": "الكافرون",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F109%20الكافرون.mp3?alt=media"
+  },
+  {
+    "id": 110,
+    "title": "النصر",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F110%20النصر.mp3?alt=media"
+  },
+  {
+    "id": 111,
+    "title": "المسد",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F111%20المسد.mp3?alt=media"
+  },
+  {
+    "id": 112,
+    "title": "الإخلاص",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F112%20الإخلاص.mp3?alt=media"
+  },
+  {
+    "id": 113,
+    "title": "الفلق",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F113%20الفلق.mp3?alt=media"
+  },
+  {
+    "id": 114,
+    "title": "الناس",
+    "url": "https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F114%20الناس.mp3?alt=media"
+  }
+]

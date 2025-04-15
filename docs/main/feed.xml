@@ -1,0 +1,693 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>تلاوات سور القرآن الكريم</title>
+    <link>https://issa-mokhtar.github.io/quran-rss-feed/</link>
+    <description>تغذية صوتية كاملة لسور القرآن الكريم من Firebase</description>
+    <language>ar</language>
+    <item>
+      <title>سورة الفاتحة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F1%20الفاتحة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F1%20الفاتحة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F1%20الفاتحة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة البقرة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F2%20البقرة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F2%20البقرة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F2%20البقرة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة آل عمران</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F3%20آل%20عمران.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F3%20آل%20عمران.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F3%20آل%20عمران.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النساء</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F4%20النساء.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F4%20النساء.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F4%20النساء.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المائدة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F5%20المائدة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F5%20المائدة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F5%20المائدة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأنعام</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F6%20الأنعام.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F6%20الأنعام.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F6%20الأنعام.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأعراف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F7%20الأعراف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F7%20الأعراف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F7%20الأعراف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأنفال</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F8%20الأنفال.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F8%20الأنفال.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F8%20الأنفال.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التوبة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F9%20التوبة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F9%20التوبة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F9%20التوبة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة يونس</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F10%20يونس.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F10%20يونس.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F10%20يونس.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة هود</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F11%20هود.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F11%20هود.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F11%20هود.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة يوسف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F12%20يوسف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F12%20يوسف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F12%20يوسف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الرعد</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F13%20الرعد.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F13%20الرعد.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F13%20الرعد.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة إبراهيم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F14%20إبراهيم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F14%20إبراهيم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F14%20إبراهيم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحجر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F15%20الحجر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F15%20الحجر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F15%20الحجر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النحل</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F16%20النحل.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F16%20النحل.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F16%20النحل.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الإسراء</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F17%20الإسراء.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F17%20الإسراء.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F17%20الإسراء.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الكهف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F18%20الكهف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F18%20الكهف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F18%20الكهف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة مريم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F19%20مريم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F19%20مريم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F19%20مريم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة طه</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F20%20طه.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F20%20طه.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F20%20طه.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأنبياء</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F21%20الأنبياء.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F21%20الأنبياء.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F21%20الأنبياء.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحج</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F22%20الحج.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F22%20الحج.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F22%20الحج.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المؤمنون</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F23%20المؤمنون.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F23%20المؤمنون.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F23%20المؤمنون.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النور</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F24%20النور.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F24%20النور.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F24%20النور.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الفرقان</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F25%20الفرقان.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F25%20الفرقان.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F25%20الفرقان.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الشعراء</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F26%20الشعراء.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F26%20الشعراء.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F26%20الشعراء.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النمل</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F27%20النمل.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F27%20النمل.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F27%20النمل.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القصص</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F28%20القصص.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F28%20القصص.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F28%20القصص.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة العنكبوت</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F29%20العنكبوت.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F29%20العنكبوت.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F29%20العنكبوت.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الروم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F30%20الروم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F30%20الروم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F30%20الروم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة لقمان</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F31%20لقمان.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F31%20لقمان.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F31%20لقمان.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة السجدة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F32%20السجدة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F32%20السجدة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F32%20السجدة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأحزاب</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F33%20الأحزاب.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F33%20الأحزاب.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F33%20الأحزاب.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة سبأ</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F34%20سبأ.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F34%20سبأ.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F34%20سبأ.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة فاطر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F35%20فاطر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F35%20فاطر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F35%20فاطر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة يس</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F36%20يس.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F36%20يس.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F36%20يس.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الصافات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F37%20الصافات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F37%20الصافات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F37%20الصافات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة ص</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F38%20ص.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F38%20ص.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F38%20ص.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الزمر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F39%20الزمر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F39%20الزمر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F39%20الزمر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة غافر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F40%20غافر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F40%20غافر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F40%20غافر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة فصلت</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F41%20فصلت.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F41%20فصلت.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F41%20فصلت.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الشورى</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F42%20الشورى.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F42%20الشورى.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F42%20الشورى.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الزخرف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F43%20الزخرف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F43%20الزخرف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F43%20الزخرف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الدخان</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F44%20الدخان.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F44%20الدخان.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F44%20الدخان.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الجاثية</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F45%20الجاثية.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F45%20الجاثية.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F45%20الجاثية.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأحقاف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F46%20الأحقاف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F46%20الأحقاف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F46%20الأحقاف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة محمد</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F47%20محمد.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F47%20محمد.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F47%20محمد.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الفتح</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F48%20الفتح.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F48%20الفتح.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F48%20الفتح.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحجرات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F49%20الحجرات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F49%20الحجرات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F49%20الحجرات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة ق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F50%20ق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F50%20ق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F50%20ق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الذاريات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F51%20الذاريات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F51%20الذاريات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F51%20الذاريات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الطور</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F52%20الطور.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F52%20الطور.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F52%20الطور.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النجم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F53%20النجم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F53%20النجم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F53%20النجم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القمر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F54%20القمر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F54%20القمر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F54%20القمر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الرحمن</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F55%20الرحمن.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F55%20الرحمن.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F55%20الرحمن.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الواقعة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F56%20الواقعة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F56%20الواقعة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F56%20الواقعة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحديد</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F57%20الحديد.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F57%20الحديد.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F57%20الحديد.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المجادلة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F58%20المجادلة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F58%20المجادلة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F58%20المجادلة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحشر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F59%20الحشر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F59%20الحشر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F59%20الحشر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الممتحنة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F60%20الممتحنة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F60%20الممتحنة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F60%20الممتحنة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الصف</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F61%20الصف.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F61%20الصف.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F61%20الصف.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الجمعة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F62%20الجمعة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F62%20الجمعة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F62%20الجمعة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المنافقون</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F63%20المنافقون.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F63%20المنافقون.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F63%20المنافقون.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التغابن</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F64%20التغابن.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F64%20التغابن.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F64%20التغابن.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الطلاق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F65%20الطلاق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F65%20الطلاق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F65%20الطلاق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التحريم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F66%20التحريم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F66%20التحريم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F66%20التحريم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الملك</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F67%20الملك.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F67%20الملك.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F67%20الملك.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القلم</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F68%20القلم.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F68%20القلم.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F68%20القلم.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الحاقة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F69%20الحاقة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F69%20الحاقة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F69%20الحاقة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المعارج</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F70%20المعارج.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F70%20المعارج.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F70%20المعارج.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة نوح</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F71%20نوح.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F71%20نوح.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F71%20نوح.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الجن</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F72%20الجن.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F72%20الجن.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F72%20الجن.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المزمل</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F73%20المزمل.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F73%20المزمل.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F73%20المزمل.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المدثر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F74%20المدثر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F74%20المدثر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F74%20المدثر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القيامة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F75%20القيامة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F75%20القيامة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F75%20القيامة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الإنسان</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F76%20الإنسان.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F76%20الإنسان.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F76%20الإنسان.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المرسلات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F77%20المرسلات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F77%20المرسلات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F77%20المرسلات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النبأ</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F78%20النبأ.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F78%20النبأ.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F78%20النبأ.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النازعات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F79%20النازعات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F79%20النازعات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F79%20النازعات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة عبس</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F80%20عبس.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F80%20عبس.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F80%20عبس.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التكوير</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F81%20التكوير.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F81%20التكوير.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F81%20التكوير.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الانفطار</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F82%20الانفطار.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F82%20الانفطار.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F82%20الانفطار.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المطففين</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F83%20المطففين.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F83%20المطففين.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F83%20المطففين.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الانشقاق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F84%20الانشقاق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F84%20الانشقاق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F84%20الانشقاق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة البروج</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F85%20البروج.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F85%20البروج.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F85%20البروج.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الطارق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F86%20الطارق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F86%20الطارق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F86%20الطارق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الأعلى</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F87%20الأعلى.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F87%20الأعلى.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F87%20الأعلى.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الغاشية</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F88%20الغاشية.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F88%20الغاشية.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F88%20الغاشية.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الفجر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F89%20الفجر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F89%20الفجر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F89%20الفجر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة البلد</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F90%20البلد.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F90%20البلد.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F90%20البلد.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الشمس</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F91%20الشمس.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F91%20الشمس.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F91%20الشمس.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الليل</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F92%20الليل.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F92%20الليل.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F92%20الليل.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الضحى</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F93%20الضحى.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F93%20الضحى.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F93%20الضحى.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الشرح</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F94%20الشرح.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F94%20الشرح.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F94%20الشرح.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التين</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F95%20التين.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F95%20التين.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F95%20التين.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة العلق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F96%20العلق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F96%20العلق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F96%20العلق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القدر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F97%20القدر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F97%20القدر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F97%20القدر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة البينة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F98%20البينة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F98%20البينة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F98%20البينة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الزلزلة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F99%20الزلزلة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F99%20الزلزلة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F99%20الزلزلة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة العاديات</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F100%20العاديات.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F100%20العاديات.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F100%20العاديات.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة القارعة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F101%20القارعة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F101%20القارعة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F101%20القارعة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة التكاثر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F102%20التكاثر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F102%20التكاثر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F102%20التكاثر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة العصر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F103%20العصر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F103%20العصر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F103%20العصر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الهمزة</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F104%20الهمزة.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F104%20الهمزة.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F104%20الهمزة.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الفيل</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F105%20الفيل.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F105%20الفيل.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F105%20الفيل.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة قريش</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F106%20قريش.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F106%20قريش.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F106%20قريش.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الماعون</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F107%20الماعون.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F107%20الماعون.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F107%20الماعون.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الكوثر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F108%20الكوثر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F108%20الكوثر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F108%20الكوثر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الكافرون</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F109%20الكافرون.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F109%20الكافرون.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F109%20الكافرون.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة النصر</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F110%20النصر.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F110%20النصر.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F110%20النصر.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة المسد</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F111%20المسد.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F111%20المسد.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F111%20المسد.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الإخلاص</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F112%20الإخلاص.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F112%20الإخلاص.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F112%20الإخلاص.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الفلق</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F113%20الفلق.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F113%20الفلق.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F113%20الفلق.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>سورة الناس</title>
+      <link>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F114%20الناس.mp3?alt=media</link>
+      <guid>https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F114%20الناس.mp3?alt=media</guid>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/quranajda.firebasestorage.app/o/public%2Faudio%2F114%20الناس.mp3?alt=media" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
